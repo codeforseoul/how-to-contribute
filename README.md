@@ -82,7 +82,7 @@ IT기술로 서울을 변화시켜보고 싶다! 하지만 뭘 해야 할 지 �
 
 ## 5. 소통하기
   * [Slack](https://slack.com/): 슬랙은 별도로 초대를 받아야 가입할 수 있습니다. 참여를 원하시는 분은 codeforseoul@codenamu.org 로 메일을 보내주세요!
-  * Github: https://github.com
+  * Github: https://github.com/codeforseoul
   * 페이스북 그룹: https://facebook.com/groups/codenamu
   * 페이스북 페이지: https://facebook.com/codenamu
   * 트위터: https://twitter.com/codeforseoul_
