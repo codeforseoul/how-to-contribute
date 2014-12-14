@@ -20,6 +20,8 @@
 ## 2. 목적
 아마도 여기까지 오게된 분들은 지금 **_어쩌다보니_** 핵나잇에 와서 뻘쭘히 자리에 앉으셨거나 **_어쩌다보니_** 링크를 잘못 눌러서 들어오셨거나 (~~아니면 구글 크롤러거나~~) 이겠죠? 누군가의 서버에 침투하기 위해서가 아니라 서울이 가진, 도시가 가진 문제를 해결하는데에 기여하기 위한 해킹을 하기위해 **_어쩌다보니_** 들어오게 되셨을 것이라고 생각합니다.
 
+Those who have come so far have perhaps joined us at a hacker night or followed some wrong link? (Perhaps you are google crawler) . Our goal is not to hack some servers, but to use our coding skills to solve Seouls problem. Come hack with your friends and contribute solving some of our cities problems.
+
 자, 그럼 지금부터 코드포서울에서 시빅 해커가 되기 위한 첫걸음을 돕기 위하여 지금 어떤 프로젝트가 진행되고 있는지(**참여하세요!**) 서울의 어떤 점을 시민들이 불편해하고 있는지(**새로 시작하세요!**) 그리고 다른 코드포서울 사람들과 어떻게하면 친해질 수 있는지 자세히 알려드립니다.
 
 ## 3. 진행중인 프로젝트
