@@ -28,8 +28,10 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
 
 ### a. [Where Does My Money Go?](http://wheredoesmymoneygo.kr)
   * _1.0 공개 || 2.0 개발중_ (_1.0 released || 2.0 under development_)
-  * **문제/Problem**: 우리가 내는 세금은 도대체 어떻게 사용되고 있을까요? 막연히 나의 세금이 좋은 곳에, 알맞는 곳에 쓰이겠지라는 믿음으로 꼬박꼬박 세금을 내고 있지만 (~~과연 그래서?~~) 잘 쓰이고 있는지 도통 알 길이 없죠.
-  * **해결 방법/Solution**: 정부에서 공개하는 세금 데이터를 긁어 모아서 시민들이 이해하기 쉽게 보여주면 어떨까요? 전 세계 세금 데이터 플랫폼 [OpenSpending]()과 오픈소스 프로젝트 [WhereDoesMyMoneyGo?]()를 이용하여 시민들의 세금이 어떻게 쓰이고 있는지 보여주고자 만들었습니다.
+  * **문제**: 우리가 내는 세금은 도대체 어떻게 사용되고 있을까요? 막연히 나의 세금이 좋은 곳에, 알맞는 곳에 쓰이겠지라는 믿음으로 꼬박꼬박 세금을 내고 있지만 (~~과연 그래서?~~) 잘 쓰이고 있는지 도통 알 길이 없죠.
+  * **Problem**: How are our taxes being used? We believe ours taxes are being used for a good or right cause (do we?), but how can we be can not be sure about it.
+  * **해결 방법**: 정부에서 공개하는 세금 데이터를 긁어 모아서 시민들이 이해하기 쉽게 보여주면 어떨까요? 전 세계 세금 데이터 플랫폼 [OpenSpending]()과 오픈소스 프로젝트 [WhereDoesMyMoneyGo?]()를 이용하여 시민들의 세금이 어떻게 쓰이고 있는지 보여주고자 만들었습니다.
+  * **Solution**: What about summing up and showing our citizens in a easy and comprehensible way all the taxes information our government has made public? By benefiting from the OpenSpending tax platform and WhereDoesMyMoneyGo? open source project, we have created a project that helps our citizens by allowing them to easily understand where their taxes are going to.
   * **소스코드/Repository** 
     * https://github.com/codeforseoul/wheredoesmymoneygo.kr
     * 세금 계산 알고리즘: https://github.com/codeforseoul/taxman
