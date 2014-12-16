@@ -56,10 +56,11 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
     * 메일러: https://github.com/codeforseoul/national-assembly-activity-mailer
   * **슬랙 채널/Slack channel**: #code4yeouido
 
-### d. 서울 맑음
+### d. 서울 맑음 (Seoul Serenity)
   * _개발중_ (_under development_)
   * **문제/Problem**: 한 해 지방 정부에서 관리해야 하는 프로젝트가 200여개가 넘습니다. 도시의 시장님과 몇 분의 공무원분들이 모든 프로젝트를 관리하는데 어려움이 따를 수 밖에 없죠. 시정의 효율성이 떨어질 수 밖에 없습니다.
-  * **해결 방법/Solution**: 어떤 프로젝트가 잘 진행되고 있고 어떤 프로젝트는 피드백이 필요한 상황인지 잘 구분해줄 수 있으면 어떨까요? 천둥부터 맑음까지 날씨 아이콘을 통해 바로 피드백이 필요한 프로젝트를 날씨로 표현해보고자 합니다.
+  * **해결 방법**: 어떤 프로젝트가 잘 진행되고 있고 어떤 프로젝트는 피드백이 필요한 상황인지 잘 구분해줄 수 있으면 어떨까요? 천둥부터 맑음까지 날씨 아이콘을 통해 바로 피드백이 필요한 프로젝트를 날씨로 표현해보고자 합니다.
+  * **Solution**: What about letting us know which project is progressing and which one requires feedback? Let us know which project needs feedback by displaying the information in a weather way, from a thunderstorm to clear skies.
   * **소스코드/Repository**
     * https://github.com/codeforseoul/seoul_serenity
   * **슬랙 채널/Slack channel**: #seoul_serenity
