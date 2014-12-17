@@ -83,9 +83,10 @@ IT기술로 서울을 변화시켜보고 싶다! 하지만 뭘 해야 할 지 �
 
 ### c. 나는 코드를 몰라요! - I don't know any code!
 코드를 몰라서 코드포서울에 참여하기 겁나신다구요? 코드가 아니여도 서울을 위해 기여할 수 있는 방법은 얼마든지 있습니다! 여러분의 능력을 보여주세요!
+Are you scared of joining Code For Seoul since you don't know how to code ? Even if you are not a coder there are several ways to contribute with Seoul. Show us your skills!
 
-  * [번역하기](#)
-  * [데이터 찾기](#)
+  * [번역하기](#) (Help us translating the content)
+  * [데이터 찾기](#) (Help us looking for data)
 
 ## 5. 소통하기
   * [Slack](https://slack.com/): 슬랙은 별도로 초대를 받아야 가입할 수 있습니다. 참여를 원하시는 분은 codeforseoul@codenamu.org 로 메일을 보내주세요!
