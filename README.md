@@ -52,8 +52,8 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
   * **문제/Problem**: 선거때만 보이는 우리 지역구 국회의원은 평소 우리가 뽑아준 그 모습 그대로 의정활동을 잘 하고 있을까요? 평소에도 나와서 잘 하고 있는지 알려줄 순 없나요?
   * **해결 방법/Solution**: 국회의원들의 의정 활동 데이터를 잘 가공하여 내가 살고 있는 지역구 국회의원의 의정활동을 성적표처럼 보여드립니다. 국회 출석률은 얼마나 되며, 어떤 법안에 찬성하고 반대했고 어떤 법안을 발의했는지 말이죠. 이를 위해 정치 데이터의 달인들만 모였다는 커뮤니티 [팀포퐁](http://popong.com)의 도움을 받아 진행하고 있습니다.
   * **소스코드/Repository**
-    * 데이터 크롤러: https://github.com/codeforseoul/national-assembly-activity-crawler
-    * 메일러: https://github.com/codeforseoul/national-assembly-activity-mailer
+    * 데이터 크롤러: https://github.com/codeforseoul/congress-report
+    * 메일러: https://github.com/codeforseoul/congress-report
   * **슬랙 채널/Slack channel**: #code4yeouido
 
 ### d. 서울 맑음 (Seoul Serenity)
@@ -85,8 +85,8 @@ IT기술로 서울을 변화시켜보고 싶다! 하지만 뭘 해야 할 지 �
 코드를 몰라서 코드포서울에 참여하기 겁나신다구요? 코드가 아니여도 서울을 위해 기여할 수 있는 방법은 얼마든지 있습니다! 여러분의 능력을 보여주세요!
 Are you scared of joining Code For Seoul since you don't know how to code ? Even if you are not a coder there are several ways to contribute with Seoul. Show us your skills!
 
-  * [번역하기](#) (Help us translating the content)
-  * [데이터 찾기](#) (Help us looking for data)
+  * 번역하기(Help us translating the content)
+  * 데이터 찾기(Help us looking for data)
 
 ## 5. 소통하기
   * [Slack](https://slack.com/): 슬랙은 별도로 초대를 받아야 가입할 수 있습니다. 참여를 원하시는 분은 codeforseoul@codenamu.org 로 메일을 보내주세요!
