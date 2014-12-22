@@ -41,7 +41,8 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
   * _개발중_ (_under development_)
   * **문제**: 우리가 살고 있는 도시에서, 자치구에서는 시민들을 위해 많은 서비스를 제공해주고 있습니다. 하지만 나에게 필요하고 내가 받을 수 있는 혜택들이 무엇이 있는지는 어디하나 정리된 곳이 없죠.
   * **Problem**: Within our city, there are many public services for each and every citizen. Still, there is no central place that shows what are the benefits of the services that I am entitled to.
-  * **해결 방법/Solution**: 곳곳에 흩어진 데이터를 모아서 시민들이 받을 수 있는 혜택들을 일목요연하게 보여주고자 합니다. 나에게 딱 맞는 혜택만을 골라서 검색해볼 수 있을 것입니다. 알뜰한 서울을 발견하게 되는 것이죠!
+  * **해결 방법**: 곳곳에 흩어진 데이터를 모아서 시민들이 받을 수 있는 혜택들을 일목요연하게 보여주고자 합니다. 나에게 딱 맞는 혜택만을 골라서 검색해볼 수 있을 것입니다. 알뜰한 서울을 발견하게 되는 것이죠!
+  * **Solution**: Group all the scattered data on benefits that citizens can receive and display it in a central place. Allow the user to search for the benefits that best fits his need. A cheap way to get to know Seoul's benefits.
   * **소스코드/Repository**
     * https://github.com/codeforseoul/FdAS
     * 데이터 스크래퍼: https://github.com/codeforseoul/FdAS-crawler
