@@ -1,6 +1,7 @@
 코드포서울 시작하기
 =================
 코드포서울에서 시빅 해킹을 시작하기 위한 모든 것
+Everything about Codeseouls Civic Hacking.
 
 ## 1. 목차
   * [목적](#2-목적)
@@ -90,7 +91,7 @@ Are you scared of joining Code For Seoul since you don't know how to code ? Even
   * 데이터 찾기 (Help us looking for data)
 
 ## 5. 소통하기 - Contact
-  * [Slack](https://slack.com/): 슬랙은 별도로 초대를 받아야 가입할 수 있습니다. 참여를 원하시는 분은 codeforseoul@codenamu.org 로 메일을 보내주세요!
+  * [Slack](https://slack.com/): 슬랙은 별도로 초대를 받아야 가입할 수 있습니다. 참여를 원하시는 분은 codeforseoul@codenamu.org 로 메일을 보내주세요! You need an invitation to join us at slack. Send us an email at codeforseoul@codenamu.org!
   * Github: https://github.com/codeforseoul
   * 페이스북 그룹: https://facebook.com/groups/codenamu
   * 페이스북 페이지: https://facebook.com/codenamu
