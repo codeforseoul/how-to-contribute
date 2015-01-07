@@ -98,4 +98,4 @@ Are you scared of joining Code For Seoul since you don't know how to code ? Even
   * 트위터: https://twitter.com/codeforseoul_
 
 ## 6. 라이선스 - License
-[퍼블릭도메인 / Public Domain](LICENSE)
+[CC0] (LICENSE)
