@@ -8,9 +8,8 @@ Everything about Codeseouls Civic Hacking.
   * [진행중인 프로젝트](#3-진행중인-프로젝트)
     * [a. Where Does My Money Go?](#a-where-does-my-money-go)
     * [b. 알뜰 서울의 발견](#b-알뜰-서울의-발견)
-    * [c. 의원님을 부탁해!](#c-의원님을-부탁해)
-    * [d. 서울맑음](#d-서울-맑음)
-    * [e. wiki-something](#e-wiki-something)
+    * [c. 서울맑음](#c-서울-맑음)
+    * [d. Hangul Romanization] (#d-hangul-romanization)
   * [새로 시작하기](#4-새로-시작하기)
     * [a. 도움이 필요한 문제들](#a-도움이-필요한-문제들바로가기---seoul-problems)
     * [b. 해외 오픈소스 사례들](#b-해외-오픈소스-사례들---overseas-opensource-examples)
@@ -49,16 +48,7 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
     * 데이터 스크래퍼: https://github.com/codeforseoul/FdAS-crawler
   * **슬랙 채널 / Slack channel**: #fdas
 
-### c. 의원님을 부탁해!
-  * _개발중_ (_under development_)
-  * **문제 / Problem**: 선거때만 보이는 우리 지역구 국회의원은 평소 우리가 뽑아준 그 모습 그대로 의정활동을 잘 하고 있을까요? 평소에도 나와서 잘 하고 있는지 알려줄 순 없나요?
-  * **해결 방법 / Solution**: 국회의원들의 의정 활동 데이터를 잘 가공하여 내가 살고 있는 지역구 국회의원의 의정활동을 성적표처럼 보여드립니다. 국회 출석률은 얼마나 되며, 어떤 법안에 찬성하고 반대했고 어떤 법안을 발의했는지 말이죠. 이를 위해 정치 데이터의 달인들만 모였다는 커뮤니티 [팀포퐁](http://popong.com)의 도움을 받아 진행하고 있습니다.
-  * **소스코드 / Repository**
-    * 데이터 크롤러: https://github.com/codeforseoul/congress-report
-    * 메일러: https://github.com/codeforseoul/congress-report
-  * **슬랙 채널 / Slack channel**: #code4yeouido
-
-### d. 서울 맑음 (Seoul Serenity)
+### c. 서울 맑음 (Seoul Serenity)
   * _개발중_ (_under development_)
   * **문제 / Problem**: 한 해 지방 정부에서 관리해야 하는 프로젝트가 200여개가 넘습니다. 도시의 시장님과 몇 분의 공무원분들이 모든 프로젝트를 관리하는데 어려움이 따를 수 밖에 없죠. 시정의 효율성이 떨어질 수 밖에 없습니다.
   * **해결 방법**: 어떤 프로젝트가 잘 진행되고 있고 어떤 프로젝트는 피드백이 필요한 상황인지 잘 구분해줄 수 있으면 어떨까요? 천둥부터 맑음까지 날씨 아이콘을 통해 바로 피드백이 필요한 프로젝트를 날씨로 표현해보고자 합니다.
@@ -67,11 +57,15 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
     * https://github.com/codeforseoul/seoul_serenity
   * **슬랙 채널 / Slack channel**: #seoul_serenity
 
-### e. wiki-something
-  * _아이디어 논의중_ (_brainstorming_)
-  * **문제 / Problem**: 서울에 거주하는 외국인들이 늘어나 많은 음식점들에는 영어로 된 메뉴들을 제공하고 있습니다. 하지만 정확하지 않은 표기법으로 외국인들이 혼동을 겪는 경우도 많다고 합니다.
-  * **해결 방법 / Solution**: 크라우드 소싱 방법으로 이런 음식 메뉴들을 번역해보면 어떨까요? 이를 통해 음식점 주인들은 쉽게 외국어로 메뉴를 제공할 수 있을 것입니다. 혹은 음식점이 아닌 다른 분야에서 이런 방법을 활용해볼 수 있지 않을까요?
-  * **슬랙 채널 / Slack channel**: #wiki-something
+### d. Hangul Romanization
+  * _개발중_ (_under development_)
+  * **문제**: 현재 사용되는 '국어의 로마자 표기법'은 영어권 사람들에게 많은 혼란이 있습니다. 강남스타일? 갱넴 스타일?
+  * **Problem**: Most Westerners in English-speaking world often encounter discrepancy with the current Korean Romanization system for Hangul, due to several reasons including subtlety of specific vowels to the untrained ears, inconsistency within vowels in English language, and so on.
+  * **해결 방법**: 영어권 사람들이 한글을 접할 때 쉽게 발음할 수 있도록 간단한 가이드라인을 제시하려고 합니다.
+  * **Solution**: Our purpose is not to revise the current system but to offer a simple guideline to pronouncing Hangul.
+  * **소스코드 / Repository**
+    * https://github.com/codeforseoul/hangul 
+  * **슬랙 채널 / Slack channel**: #hangul
 
 ## 4. 새로 시작하기 - Where to start
 
