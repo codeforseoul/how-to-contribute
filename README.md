@@ -45,7 +45,7 @@ Those who have come so far have perhaps joined us at a hacker night or followed 
   * **Solution**: Group all the scattered data on benefits that citizens can receive and display it in a central place. Allow the user to search for the benefits that best fits his need. A cheap way to get to know Seoul's benefits.
   * **소스코드 / Repository**
     * https://github.com/codeforseoul/FdAS
-    * 데이터 스크래퍼: https://github.com/codeforseoul/FdAS-crawler
+    * 데이터 스크래퍼: https://github.com/codeforseoul/FdAS_crawler
   * **슬랙 채널 / Slack channel**: #fdas
 
 ### c. 서울 맑음 (Seoul Serenity)
